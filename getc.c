@@ -2,8 +2,8 @@
 #include<conio.h>
 int main()
 {
-    char name;
-    name=getc(stdin);
-    putc(name,stdout);
+    char n;
+    n=getc(stdin);
+    putc(n,stdout);
     return 0;
 }
